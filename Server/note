@@ -1,0 +1,6 @@
+
+npm init --yes
+npm install --save body-parser cors
+express is web server
+body-parser is middle ware to handle form data &
+cors is a package make request again cross diffrents ports

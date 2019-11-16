@@ -1,0 +1,4 @@
+In Reactive forms
+Enitire form is represented as formGroup and each form field represented as a form control 
+in the component class.
+
